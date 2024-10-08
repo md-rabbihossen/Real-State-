@@ -38,7 +38,12 @@
 5. Use the user's configured `sans` font-feature-settings by default.
 6. Use the user's configured `sans` font-variation-settings by default.
 */
-
+.max-w-full{
+  width: 40%;
+}
+.h-12{
+}
+.mb-8
 html {
   line-height: 1.5;
   /* 1 */
@@ -735,7 +740,7 @@ body {
 }
 
 .mb-8{
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
 }
 
 .mb-9{
@@ -815,7 +820,7 @@ body {
 }
 
 .h-12{
-  height: 3rem;
+  height: 7rem;
 }
 
 .h-6{

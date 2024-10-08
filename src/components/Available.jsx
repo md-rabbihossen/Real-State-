@@ -1,10 +1,9 @@
-
 const properties = [
   {
     id: 1,
     name: "Renaissance Hotel",
     price: "BDT 20000.00",
-    image: "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    image: "https://plus.unsplash.com/premium_photo-1674676471380-1258cb31b3ac?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
     bedrooms: 2,
     bathrooms: 2,
   },
@@ -34,9 +33,9 @@ const properties = [
   },
   {
     id: 5,
-    name: "Hotel Sarina",
+    name: "Hotel Tahrima",
     price: "BDT 40000.00",
-    image: "https://plus.unsplash.com/premium_photo-1674676471380-1258cb31b3ac?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    image: "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
     bedrooms: 4,
     bathrooms: 4,
   },
